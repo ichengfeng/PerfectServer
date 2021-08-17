@@ -1,0 +1,83 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Filter/Filter.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Filter/Filter.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Filter/Filter.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Filter/Filter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Filter/Filter.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/BaseMySQLStORM.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/BaseMySQLStORM.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/BaseMySQLStORM.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/BaseMySQLStORM~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/BaseMySQLStORM.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Result.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Result.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Result.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Result.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Tool.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Tool.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Tool.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Tool~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Tool.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods_Picture.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods_Picture.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods_Picture.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods_Picture~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods_Picture.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/User.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/User.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/User.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/User.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/BaseApi.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/BaseApi.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/BaseApi.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/BaseApi~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/BaseApi.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/GoodsApi.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/GoodsApi.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/GoodsApi.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/GoodsApi~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/GoodsApi.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/TestApi.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/TestApi.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/TestApi.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/TestApi~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/TestApi.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/UserApi.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/UserApi.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/UserApi.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/UserApi~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/UserApi.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/ServerConfiguration.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/ServerConfiguration.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/ServerConfiguration.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/ServerConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/ServerConfiguration.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/main.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/main.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/main.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/main.swiftdeps"
+  }
+}

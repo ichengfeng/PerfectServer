@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Convenience.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Convenience.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Convenience.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Convenience~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Convenience.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/DataConverters.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/DataConverters.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/DataConverters.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/DataConverters~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/DataConverters.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Delete.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Delete.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Delete.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Delete~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Delete.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Insert.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Insert.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Insert.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Insert~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Insert.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLConnect.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLConnect.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLConnect.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLConnect~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLConnect.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLDataType.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLDataType.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLDataType.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLDataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLDataType.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLStORM.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/SQL.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/SQL.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/SQL.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/SQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/SQL.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Select.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Select.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Select.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Select~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Select.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Update.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Update.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Update.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Update~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Update.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Upsert.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Upsert.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Upsert.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Upsert~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Upsert.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/parseRows.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/parseRows.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/parseRows.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/parseRows~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/parseRows.swiftdeps"
+  }
+}

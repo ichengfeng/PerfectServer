@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "82c0ad4be408eace7357bdd1c48dba1c"
+build_time: [1629193858, 138314000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift": [1629193746, 192186884]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift": [1629193746, 192480300]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift": [1629193746, 192804400]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift": [1629193746, 193101269]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift": [1629193746, 193315917]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift": [1629193746, 193476713]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift": [1629193746, 193651752]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift": [1629193746, 193835959]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift": [1629193746, 194238435]

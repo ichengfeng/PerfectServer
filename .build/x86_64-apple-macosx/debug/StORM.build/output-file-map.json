@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/Extract.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/Extract.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/Extract.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/Extract~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/Extract.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORM.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMConnect.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMConnect.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMConnect.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMConnect~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMConnect.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMCursor.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMCursor.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMCursor.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMCursor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMCursor.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSource.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSource.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSource.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSource.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceCredentials.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceCredentials.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceCredentials.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceCredentials~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceCredentials.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceOptions.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceOptions.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceOptions.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceOptions.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMError.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMError.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMError.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMError~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMError.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMJoins.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMJoins.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMJoins.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMJoins~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMJoins.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMProtocol.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMProtocol.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMProtocol.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMProtocol.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMRow.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMRow.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMRow.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMRow.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMtResultSet.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMtResultSet.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMtResultSet.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMtResultSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMtResultSet.swiftdeps"
+  }
+}

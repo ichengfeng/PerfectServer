@@ -1,0 +1,4 @@
+module SwiftMoment {
+    header "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/SwiftMoment-Swift.h"
+    requires objc
+}

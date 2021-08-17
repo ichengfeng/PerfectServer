@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "908d38da8cfef954a6762cd3907e05eb"
+build_time: [1629193897, 573436000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequest.swift": [1629193851, 175926406]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequestOptions.swift": [1629193851, 176235733]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponse.swift": [1629193851, 176687114]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponseInfos.swift": [1629193851, 176872501]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/cURL.swift": [1629193851, 177162256]

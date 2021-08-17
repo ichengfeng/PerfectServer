@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "e2525908a967652e1b4df7ff723e30b2"
+build_time: [1629193889, 249985000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/Extract.swift": [1629193850, 93068213]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORM.swift": [1629193850, 93262724]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMConnect.swift": [1629193850, 93407939]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMCursor.swift": [1629193850, 93537928]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSource.swift": [1629193850, 93667297]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceCredentials.swift": [1629193850, 93810066]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceOptions.swift": [1629193850, 93934089]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMError.swift": [1629193850, 94058564]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMJoins.swift": [1629193850, 94181031]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMProtocol.swift": [1629193850, 94306247]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMRow.swift": [1629193850, 94432575]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMtResultSet.swift": [1629193850, 94557048]

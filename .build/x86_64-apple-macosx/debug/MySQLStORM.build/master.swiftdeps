@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "8b5d4bc887cc95efd6fdf2e7ef3eb2ae"
+build_time: [1629193901, 217037000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Convenience.swift": [1629193850, 815779053]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/DataConverters.swift": [1629193850, 815913810]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Delete.swift": [1629193850, 816116942]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Insert.swift": [1629193850, 816483898]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLConnect.swift": [1629193850, 816713348]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLDataType.swift": [1629193850, 816873335]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLStORM.swift": [1629193850, 817154011]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/SQL.swift": [1629193850, 817329612]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Select.swift": [1629193850, 817521910]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Update.swift": [1629193850, 817745322]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Upsert.swift": [1629193850, 817916267]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/parseRows.swift": [1629193850, 818088739]

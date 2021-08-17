@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "MySQLStORM",
-        "repositoryURL": "https://github.com/SwiftORM/MySQL-StORM.git",
+        "repositoryURL": "git://github.com/SwiftORM/MySQL-StORM.git",
         "state": {
           "branch": null,
           "revision": "65d5048a3d46011f2756682eede2b249ea8832b0",
@@ -66,7 +66,7 @@
       },
       {
         "package": "PerfectHTTPServer",
-        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
+        "repositoryURL": "git://github.com/PerfectlySoft/Perfect-HTTPServer.git",
         "state": {
           "branch": null,
           "revision": "4843cd54762d59b7e70841663ae561b279b80946",
@@ -93,7 +93,7 @@
       },
       {
         "package": "PerfectMySQL",
-        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-MySQL.git",
+        "repositoryURL": "git://github.com/PerfectlySoft/Perfect-MySQL.git",
         "state": {
           "branch": null,
           "revision": "fe63085fe4639944657bf2f33b775e8036974eef",

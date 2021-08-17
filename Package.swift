@@ -8,9 +8,9 @@ let package = Package(
 		.executable(name: "PerfectServer", targets: ["PerfectServer"])
 	],
 	dependencies: [
-		.package(url: "https://github.com/PerfectlySoft/Perfect-HTTPServer.git", from: "3.0.0"),
-        .package(url: "https://github.com/PerfectlySoft/Perfect-MySQL.git", from: "3.0.0"),
-        .package(url: "https://github.com/SwiftORM/MySQL-StORM.git", from: "3.0.0"),
+		.package(url: "git://github.com/PerfectlySoft/Perfect-HTTPServer.git", from: "3.0.0"),
+        .package(url: "git://github.com/PerfectlySoft/Perfect-MySQL.git", from: "3.0.0"),
+        .package(url: "git://github.com/SwiftORM/MySQL-StORM.git", from: "3.0.0"),
 	],
 	targets: [
 		.target(name: "PerfectServer", dependencies: ["PerfectHTTPServer","PerfectMySQL","MySQLStORM"])

@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "117276c4cb1fb7dca717f7858778beaa"
+build_time: [1629193902, 785254000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Filter/Filter.swift": [1515138671, 0]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/BaseMySQLStORM.swift": [1628670791, 81801057]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Result.swift": [1628589843, 130757451]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Tool.swift": [1628591916, 895188332]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods.swift": [1629097639, 291180611]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods_Picture.swift": [1629167972, 197949174]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/User.swift": [1628666813, 242430925]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/BaseApi.swift": [1628589603, 517315984]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/GoodsApi.swift": [1629105858, 283562303]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/TestApi.swift": [1629081823, 320002794]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/UserApi.swift": [1629081823, 335215092]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/ServerConfiguration.swift": [1629178135, 336704686]
+  "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/main.swift": [1629097881, 957704306]

@@ -1,0 +1,4 @@
+module PerfectCRUD {
+    header "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD-Swift.h"
+    requires objc
+}

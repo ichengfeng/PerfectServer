@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ed343fcff8e33e2f927a041ad709d258"
+build_time: [1629193858, 138014000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift": [1629193746, 382652503]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift": [1629193746, 383248907]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift": [1629193746, 383572748]

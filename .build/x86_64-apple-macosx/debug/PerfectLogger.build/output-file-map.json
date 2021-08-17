@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/FileLogger.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/FileLogger.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/FileLogger.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/FileLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/FileLogger.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogOptions.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogOptions.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogOptions.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogOptions.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogPriority.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogPriority.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogPriority.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogPriority~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogPriority.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/RemoteLogger.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/RemoteLogger.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/RemoteLogger.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/RemoteLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/RemoteLogger.swiftdeps"
+  }
+}

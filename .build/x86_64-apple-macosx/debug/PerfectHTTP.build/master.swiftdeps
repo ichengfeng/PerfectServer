@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ced7b7685ec6aabfcf26132f0c3d267d"
+build_time: [1629193895, 705537000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift": [1629193745, 433605721]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift": [1629193745, 433832926]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift": [1629193745, 434077897]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift": [1629193745, 434836477]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift": [1629193745, 435221978]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift": [1629193745, 435622518]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift": [1629193745, 436384355]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift": [1629193745, 436892312]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift": [1629193745, 437272488]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift": [1629193745, 437685480]

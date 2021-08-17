@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "be94350116c5a98285b08cf349f92cd5"
+build_time: [1629193889, 349172000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQL.swift": [1629193850, 269904579]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLCRUD.swift": [1629193850, 270293289]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLStmt.swift": [1629193850, 270617361]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/PerfectMySQL.swift": [1629193850, 270848835]

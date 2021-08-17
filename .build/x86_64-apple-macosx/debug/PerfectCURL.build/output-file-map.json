@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequest.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequest.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequest.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequest.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequestOptions.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequestOptions.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequestOptions.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequestOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequestOptions.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponse.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponse.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponse.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponse.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponseInfos.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponseInfos.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponseInfos.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponseInfos~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponseInfos.swiftdeps"
+  },
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/cURL.swift": {
+    "dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/cURL.d",
+    "object": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/cURL.swift.o",
+    "swiftmodule": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/cURL~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/cURL.swiftdeps"
+  }
+}

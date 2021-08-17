@@ -1,0 +1,4 @@
+module StORM {
+    header "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM-Swift.h"
+    requires objc
+}

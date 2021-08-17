@@ -1,0 +1,3258 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.MySQLStORM-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Convenience.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/DataConverters.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Delete.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Insert.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLConnect.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLDataType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLStORM.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/SQL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Select.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Update.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Upsert.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/parseRows.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MySQLStORM",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Convenience.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/DataConverters.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Delete.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Insert.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLConnect.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLDataType.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/SQL.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Select.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Update.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Upsert.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/parseRows.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-libcurl/module.modulemap",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-mysqlclient/module.modulemap",
+        "-I/usr/local/Cellar/mysql/8.0.26/include/mysql",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Convenience.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/DataConverters.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Delete.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Insert.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLConnect.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLDataType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/MySQLStORM.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/SQL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Select.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Update.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/Upsert.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build/parseRows.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Convenience.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/DataConverters.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Delete.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Insert.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLConnect.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLDataType.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/MySQLStORM.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/SQL.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Select.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Update.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/Upsert.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/MySQL-StORM/Sources/MySQLStORM/parseRows.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.build",
+      "WMO" : false
+    },
+    "C.PerfectCRUD-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/Coding.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingBindings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingJoins.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingKeyPaths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingNames.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingRows.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Create.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Database.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Delete.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Comparison.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/ComparisonInts.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Equality.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/EqualityInts.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Expression.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/In.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/InInts.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Like.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Logical.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Insert.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Join.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Logging.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/PerfectCRUD.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Select.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Table.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Update.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Where.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectCRUD",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/Coding.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingBindings.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingJoins.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingKeyPaths.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingNames.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingRows.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Create.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Database.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Delete.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Comparison.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/ComparisonInts.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Equality.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/EqualityInts.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Expression.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/In.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/InInts.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Like.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Logical.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Insert.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Join.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Logging.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Select.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Table.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Update.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Where.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/Coding.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingBindings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingJoins.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingKeyPaths.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingNames.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingRows.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Create.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Database.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Delete.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Comparison.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/ComparisonInts.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Equality.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/EqualityInts.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Expression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/In.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/InInts.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Like.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Logical.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Insert.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Join.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Logging.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Select.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Table.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Update.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Where.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/Coding.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingBindings.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingJoins.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingKeyPaths.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingNames.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingRows.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Create.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Database.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Delete.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Comparison.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/ComparisonInts.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Equality.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/EqualityInts.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Expression.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/In.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/InInts.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Like.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Logical.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Insert.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Join.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Logging.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/PerfectCRUD.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Select.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Table.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Update.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Where.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.build",
+      "WMO" : false
+    },
+    "C.PerfectCrypto-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWK.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/a_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/aes_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ameth_lib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/asn1_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/asn_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/b_dump.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/b_print.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/b_sock.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/bf_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/bio_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/bn_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/bss_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/buf_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/by_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/c_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/camellia.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cbc128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cbc3_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cbc_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ccm128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb64ede.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb64enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cm_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cmac.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cmll_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cms_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/comp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/conf_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cpt_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cryptlib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ctr128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/cversion.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/d1_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/d1_lib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/d2i_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/des_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/des_old.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/des_old2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/dh_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/digest.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/dsa_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/dso_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_4758cca.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_4758cca_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aep.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aep_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aes.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aes_cbc_hmac_sha1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aes_cbc_hmac_sha256.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_atalla.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_atalla_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_bf.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_camellia.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_capi.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_capi_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_cast.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_chil.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_chil_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_cswift.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_cswift_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_des.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_des3.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_gmp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_gmp_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_gost_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_idea.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_null.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_nuron.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_nuron_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_old.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_padlock.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc4.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc4_hmac_md5.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc5.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_seed.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_sureware.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_sureware_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_ubsec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_ubsec_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_xcbc_d.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ebcdic.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ec2_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ec_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecb3_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecb_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ech_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/eck_prn.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_mont.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nist.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistp224.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistp256.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistp521.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistputil.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_oct.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_smpl.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecs_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ede_cbcm_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/enc_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/encode.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/eng_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/err_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/evp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ex_data.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/f_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/fcrypt.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/fcrypt_b.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/fips_ers.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gcm128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/getenv.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost2001.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost2001_keyx.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost89.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost94_keyx.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/gosthash.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/hm_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/hmac.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/i2d_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/i_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/krb5_asn.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/kssl.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/lh_stats.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/lhash.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_dss.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_dss1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_ecdsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_md2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_md4.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_md5.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_mdc2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_null.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_ripemd.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_sha.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_sha1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_sigver.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_wp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/md4_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/md5_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/md_rand.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/mdc2_one.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/mdc2dgst.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/mem.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/mem_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/n_pkey.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/names.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/nsseq.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/o_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/obj_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ocsp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb64ede.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb64enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/openbsd_hw.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/p12_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/p5_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/p8_pkey.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/p_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pcbc_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pcy_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pem_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pk12err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pk7_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pkcs7err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pmeth_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pqueue.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/pvkfmt.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/qud_cksm.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rand_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/randfile.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc2_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc2cfb64.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc2ofb64.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc4_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/read2pwd.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rmd_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rpc_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rsa_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/rsaz_exp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/s23_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/s2_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/s3_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/seed.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/seed_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/set_key.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha1_one.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha1dgst.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha256.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha512.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/srp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ssl_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/stack.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/str2key.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/t1_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/t_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tasn_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_asnmth.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_cipher.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_dh.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_digest.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_dsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_ecdh.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_ecdsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_pkmeth.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_rand.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_rsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_store.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/th-lock.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/tls_srp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ts_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/txt_db.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/ui_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/uid.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/v3_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/v3_lib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/v3err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/wp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/wrap128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509cset.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509name.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509rset.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509spki.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509type.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/x_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/xcbc_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/COpenSSL.build/xts128.c.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectCrypto",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Algorithms.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/ByteIO.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Extensions.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWK.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWT.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Keys.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/OpenSSLInternal.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/PerfectCrypto.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/PerfectCrypto-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Algorithms.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/ByteIO.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWK.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWT.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Keys.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/OpenSSLInternal.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/PerfectCrypto.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWK.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.build",
+      "WMO" : false
+    },
+    "C.PerfectCURL-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequestOptions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponse.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponseInfos.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/cURL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectCURL",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequest.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequestOptions.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponse.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponseInfos.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/cURL.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-libcurl/module.modulemap",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/PerfectCURL-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLRequestOptions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponse.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/CURLResponseInfos.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/cURL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequest.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLRequestOptions.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponse.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/CURLResponseInfos.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CURL/Sources/PerfectCURL/cURL.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build",
+      "WMO" : false
+    },
+    "C.PerfectHTTP-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectHTTP",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPFilter.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPHeaders.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPMethod.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPRequest.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPResponse.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeReader.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeType.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/Routing.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/StaticFileHandler.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/TypedRoutes.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/PerfectHTTP-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPFilter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPHeaders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPResponse.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeReader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/Routing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/StaticFileHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/TypedRoutes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.build",
+      "WMO" : false
+    },
+    "C.PerfectHTTPServer-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCHTTPParser.build/http_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/adler32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/compress.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/crc32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/deflate.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzclose.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzlib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzread.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzwrite.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/infback.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/inffast.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/inflate.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/inftrees.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/trees.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/uncompr.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/zutil.c.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectHTTPServer",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Request.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Response.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HPACK.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Client.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Frame.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameReader.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameWriter.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2PrefaceValidator.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Request.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Response.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Session.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2SessionSettings.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPContentCompression.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPMultiplexer.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServer.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerEx.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerExConfig.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/PerfectHTTPServer-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HPACK.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Client.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Frame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameReader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameWriter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2PrefaceValidator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Session.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2SessionSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPContentCompression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPMultiplexer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerEx.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerExConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build",
+      "WMO" : false
+    },
+    "C.PerfectLib-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectLib",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Bytes.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Dir.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/File.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/JSONConvertible.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Log.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectError.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectServer.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/SysProcess.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Utilities.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectLib-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Bytes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Dir.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/File.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/JSONConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Log.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectServer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/SysProcess.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build/Utilities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.build",
+      "WMO" : false
+    },
+    "C.PerfectLogger-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/FileLogger.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogOptions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogPriority.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/RemoteLogger.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectLogger",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/FileLogger.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogOptions.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogPriority.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/RemoteLogger.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-libcurl/module.modulemap",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/PerfectLogger-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/FileLogger.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogOptions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/LogPriority.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build/RemoteLogger.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/FileLogger.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogOptions.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogPriority.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/RemoteLogger.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLogger.build",
+      "WMO" : false
+    },
+    "C.PerfectMySQL-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLCRUD.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLStmt.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/PerfectMySQL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCRUD.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectMySQL",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQL.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLCRUD.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLStmt.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-mysqlclient/module.modulemap",
+        "-I/usr/local/Cellar/mysql/8.0.26/include/mysql",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLCRUD.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLStmt.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQL.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLCRUD.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLStmt.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/PerfectMySQL.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build",
+      "WMO" : false
+    },
+    "C.PerfectNet-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectNet",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/Net.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetAddress.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetEvent.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetNamedPipe.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCP.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCPSSL.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetUDP.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/PerfectNet-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/Net.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetAddress.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetEvent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetNamedPipe.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCP.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCPSSL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetUDP.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectNet.build",
+      "WMO" : false
+    },
+    "C.PerfectServer-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Filter/Filter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/BaseMySQLStORM.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Result.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Tool.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods_Picture.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/User.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/BaseApi.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/GoodsApi.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/TestApi.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/UserApi.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/ServerConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/MySQLStORM.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "PerfectServer",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/PerfectServer.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Filter/Filter.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/BaseMySQLStORM.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Result.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Tool.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods_Picture.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/User.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/BaseApi.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/GoodsApi.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/TestApi.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/UserApi.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/ServerConfiguration.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-libcurl/module.modulemap",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-mysqlclient/module.modulemap",
+        "-I/usr/local/Cellar/mysql/8.0.26/include/mysql",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Filter/Filter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/BaseMySQLStORM.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Result.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Help/Tool.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/Goods_Picture.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Model/User.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/BaseApi.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/GoodsApi.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/TestApi.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/Router/UserApi.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/ServerConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build/PerfectServer.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Filter/Filter.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/BaseMySQLStORM.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Result.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Help/Tool.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/Goods_Picture.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Model/User.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/BaseApi.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/GoodsApi.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/TestApi.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/Router/UserApi.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/ServerConfiguration.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/Sources/PerfectServer/main.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectServer.build",
+      "WMO" : false
+    },
+    "C.PerfectThread-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectThread",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/PerfectThread-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectThread.build",
+      "WMO" : false
+    },
+    "C.StORM-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/Extract.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORM.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMConnect.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMCursor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceCredentials.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceOptions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMJoins.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMProtocol.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMRow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMtResultSet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "StORM",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/Extract.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMConnect.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMCursor.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSource.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceCredentials.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceOptions.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMError.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMJoins.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMProtocol.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMRow.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMtResultSet.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/Extract.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORM.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMConnect.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMCursor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSource.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceCredentials.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMDataSourceOptions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMJoins.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMProtocol.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMRow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build/StORMtResultSet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/Extract.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORM.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMConnect.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMCursor.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSource.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceCredentials.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMDataSourceOptions.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMError.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMJoins.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMProtocol.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMRow.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/StORM/Sources/StORM/StORMtResultSet.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/StORM.build",
+      "WMO" : false
+    },
+    "C.SwiftMoment-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Duration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Moment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/MomentFromNow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Operators.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/TimeUnit.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwiftMoment",
+      "moduleOutputPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.swiftmodule",
+      "objects" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Duration.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Extensions.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Moment.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/MomentFromNow.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Operators.swift.o",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/TimeUnit.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/SwiftMoment-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Duration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Moment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/MomentFromNow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/Operators.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build/TimeUnit.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Duration.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Extensions.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Moment.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/MomentFromNow.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Operators.swift",
+        "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/TimeUnit.swift"
+      ],
+      "tempsPath" : "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/SwiftMoment.build",
+      "WMO" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

@@ -1,0 +1,4 @@
+module PerfectCURL {
+    header "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectCURL.build/PerfectCURL-Swift.h"
+    requires objc
+}

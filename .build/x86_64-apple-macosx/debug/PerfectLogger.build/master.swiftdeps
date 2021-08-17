@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "97cbd9b4621bccaf07bbdcd8e52ea70a"
+build_time: [1629193900, 374544000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/FileLogger.swift": [1629193849, 754821871]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogOptions.swift": [1629193849, 755130657]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/LogPriority.swift": [1629193849, 755358926]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-Logger/Sources/PerfectLogger/RemoteLogger.swift": [1629193849, 755617268]

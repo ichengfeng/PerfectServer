@@ -100,5 +100,5 @@ try HTTPServer.launch(name: "localhost",
 
 ```
 
-## Further Information
+## Further Information 
 For more information on the Perfect project, please visit [perfect.org](http://perfect.org).

@@ -1,0 +1,4 @@
+module PerfectMySQL {
+    header "/Users/mac/Documents/GitHub/PerfectServer/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL-Swift.h"
+    requires objc
+}

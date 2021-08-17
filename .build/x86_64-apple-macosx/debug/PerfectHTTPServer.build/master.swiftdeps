@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "e1dd2a4763271d813fda6a5df842bce9"
+build_time: [1629193897, 573437000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1629193744, 657744971]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1629193744, 658081310]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1629193744, 659163678]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1629193744, 659627691]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1629193744, 660102889]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1629193744, 660353393]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1629193744, 660556096]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1629193744, 660714822]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1629193744, 660865268]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1629193744, 661199364]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1629193744, 661497361]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1629193744, 662142355]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1629193744, 662403776]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1629193744, 662663114]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1629193744, 662944128]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift": [1629193744, 663209457]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1629193744, 663483916]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1629193744, 663723486]

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "e7cbf592ac8b7778c2abac22611a9f5f"
+build_time: [1629193858, 126817000]
+inputs:
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Duration.swift": [1629193850, 438167281]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Extensions.swift": [1629193850, 438303610]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Moment.swift": [1629193850, 438685217]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/MomentFromNow.swift": [1629193850, 452033899]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/Operators.swift": [1629193850, 452284813]
+  "/Users/mac/Documents/GitHub/PerfectServer/.build/checkouts/SwiftMoment/Sources/SwiftMoment/TimeUnit.swift": [1629193850, 452758358]
