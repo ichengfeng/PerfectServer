@@ -9,14 +9,12 @@ import StORM
 
 class Goods: BaseMySQLStORM {
     
-    var id : Int = 0
     var item_name: String = ""
     var item_price: String = ""
     var item_subs: String = ""
     var itemId: String = ""
     
     override func to(_ this: StORMRow) {
-        id = Int(this.data["id"] as? Int64 ?? 0)
         item_name = this.data["item_name"] as? String ?? ""
         item_price = this.data["item_price"] as? String ?? ""
         item_subs = this.data["item_subs"] as? String ?? ""

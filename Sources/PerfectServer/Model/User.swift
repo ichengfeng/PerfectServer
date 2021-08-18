@@ -17,7 +17,6 @@ class User: BaseMySQLStORM {
     var user_icon: String = ""
     
     override func to(_ this: StORMRow) {
-        id = Int(this.data["id"] as? Int64 ?? 0)
         phone = this.data["phone"] as? String ?? ""
         password = this.data["password"] as? String ?? ""
         name = this.data["name"] as? String ?? ""

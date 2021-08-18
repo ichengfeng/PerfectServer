@@ -9,9 +9,9 @@ import PerfectHTTP
 import PerfectHTTPServer
 import PerfectLib
 
-let imageFilePath = "//Users/mac/Documents/BeautyGirl"
+let imageFilePath = "//Users/mac/Documents/resource"
 
-class TestApi: BaseApi {
+class ImgApi: BaseApi {
     
     static func helloWorld() -> RequestHandler {
         return { requst,response in
@@ -24,8 +24,8 @@ class TestApi: BaseApi {
     static func getImg() -> RequestHandler {
         return {
             request, response in
-//            let docRoot = request.documentRoot
-            //获取用户上传的get参数
+            ///let docRoot = request.documentRoot
+            ///获取用户上传的get参数
             let name = request.param(name: "name");
             
             do {

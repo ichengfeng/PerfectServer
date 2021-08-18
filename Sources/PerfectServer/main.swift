@@ -28,12 +28,13 @@ func setUpRoutes() -> [Route] {
     
     var routeArray = [Route]()
     ///routeArray.append(Route(methods: [.get, .post], uri: "/helloWorld", handler: TestApi.helloWorld()))
-    routeArray.append(Route(methods: [.get], uri: "/img", handler: TestApi.getImg()))
+    routeArray.append(Route(methods: [.get], uri: "/img", handler: ImgApi.getImg()))
     routeArray.append(Route(method: .post, uri: "/register", handler: UserApi.register()))
     routeArray.append(Route(method: .post, uri: "/login", handler: UserApi.login()))
     routeArray.append(Route(method: .get, uri: "/checkPhoneIsValid", handler: UserApi.checkPhoneIsValid()))
     routeArray.append(Route(method: .get, uri: "/getUserList", handler: UserApi.getUserList()))
     routeArray.append(Route(method: .get, uri: "/getGoodsList", handler: GoodsApi.getGoodsList()))
+    routeArray.append(Route(method: .get, uri: "/getCategoryList", handler: CategoryApi.getCategoryList()))
     
     return routeArray
 }
